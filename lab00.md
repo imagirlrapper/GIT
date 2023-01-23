@@ -1,0 +1,1 @@
+I learned markdown is a way to write content for the web. The only thing I'm a little confused about would be the syntax of this, but it seems staight forward so I'm gonna do my best to learn it.
